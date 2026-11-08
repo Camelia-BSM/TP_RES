@@ -1,3 +1,5 @@
+## Malo BOUDIER AEBISCHER, Camelia BENSEMMANE
+
 import socket #la bibliotheque socket permet la creation de sockets
 import time #la bibliotheque time est indispensable pour connaitre de RTT
 

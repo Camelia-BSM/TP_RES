@@ -1,3 +1,5 @@
+## Malo BOUDIER AEBISCHER, Camelia BENSEMMANE
+
 import socket #la bibliotheque socket permet la creation de sockets
 
 UDP_IP = "127.0.0.1" #IP du recepteur (ici adresse de rebouclage)
